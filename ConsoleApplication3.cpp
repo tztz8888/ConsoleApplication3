@@ -5,7 +5,7 @@
 
 int main()
 {
-	printf("wenshiweiwwwwwwwwwwwww\n");
+	printf("become brotherhood\n");
     return 0;
 }
 
