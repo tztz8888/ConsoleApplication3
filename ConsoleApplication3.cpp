@@ -5,7 +5,7 @@
 
 int main()
 {
-	printf("wenshiwei\n");
+	printf("wenshiweiwwwwwwwwwwwww\n");
     return 0;
 }
 
